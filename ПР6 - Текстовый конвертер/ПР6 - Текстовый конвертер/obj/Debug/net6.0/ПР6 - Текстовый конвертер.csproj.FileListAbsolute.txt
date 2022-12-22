@@ -1,0 +1,17 @@
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\bin\Debug\net6.0\ПР6 - Текстовый конвертер.exe
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\bin\Debug\net6.0\ПР6 - Текстовый конвертер.deps.json
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\bin\Debug\net6.0\ПР6 - Текстовый конвертер.runtimeconfig.json
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\bin\Debug\net6.0\ПР6 - Текстовый конвертер.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\bin\Debug\net6.0\ПР6 - Текстовый конвертер.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.csproj.CopyComplete
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\refint\ПР6 - Текстовый конвертер.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ПР6 - Текстовый конвертер.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР6 - Текстовый конвертер\ПР6 - Текстовый конвертер\obj\Debug\net6.0\ref\ПР6 - Текстовый конвертер.dll
